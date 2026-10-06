@@ -1,13 +1,19 @@
-Sales Analytics Dashboard – Power BI
+# Sales Analytics Dashboard – Power BI
 
-##📊 Project Overview
+## 📊 Project Overview
 
-This project is an interactive Sales Analytics Dashboard developed using Microsoft Power BI.The objective of this project is to analyze sales performance across different product categories, sub-categories, regions, customer segments, payment modes and shipping modes.
+This project is an interactive Sales Analytics Dashboard developed using Microsoft Power BI.
+
+The objective of this project is to analyze sales performance across different product categories, sub-categories, regions, customer segments, payment modes and shipping modes.
+
 The dashboard also provides KPI monitoring and time-series analysis to support data-driven business decisions.
 
-##🎯 Business Objectives
+---
+
+## 🎯 Business Objectives
 
 The major objectives of this project are:
+
 - Analyze overall sales performance
 - Monitor key business KPIs
 - Identify high-performing product categories
@@ -30,9 +36,10 @@ The major objectives of this project are:
 
 ---
 
-##📌 Key KPIs
+## 📌 Key KPIs
 
 The dashboard tracks the following KPIs:
+
 - Total Sales
 - Total Profit
 - Total Quantity
@@ -40,31 +47,38 @@ The dashboard tracks the following KPIs:
 
 ---
 
-##📈 Dashboard Analysis
+## 📈 Dashboard Analysis
 
-Sales by Category
+### Sales by Category
 
-###Sales performance is analyzed across:
+Sales performance is analyzed across:
+
 - Furniture
 - Office Supplies
 - Technology
 
 ### Sales by Sub-Category
+
 A detailed sub-category analysis helps identify products contributing significantly to overall sales.
 
 ### Sales by Region
+
 The dashboard compares sales performance across geographical regions.
 
 ### Sales by Segment
+
 Customer segments are analyzed to understand their contribution to total sales.
 
 ### Sales by Payment Mode
+
 Different payment modes are compared to understand customer preferences.
 
 ### Sales by Ship Mode
+
 Shipping modes are analyzed to understand their relationship with sales performance.
 
 ### Monthly Trend Analysis
+
 Monthly sales and profit trends are analyzed to identify growth patterns and variations over time.
 
 ---
@@ -80,6 +94,11 @@ Monthly sales and profit trends are analyzed to identify growth patterns and var
 
 ---
 
+## 📊 Dashboard
+
+![Sales Dashboard](Dashboard/sales-dashboard.png)
+
+---
 
 ## 🔍 Business Value
 
@@ -93,4 +112,20 @@ The dashboard enables business users to:
 - Support data-driven decision-making
 
 ---
+
+## 📁 Project Structure
+
+```text
+sales-analysis-powerbi/
+│
+├── README.md
+├── PowerBI/
+│   └── Salesdashboard.pbix
+├── Dashboard/
+│   └── sales-dashboard.png
+├── Data/
+│   └── sales_data.csv
+├── Documentation/
+│   └── Sales_Analytics_Report.pdf
+└── Images/
 
