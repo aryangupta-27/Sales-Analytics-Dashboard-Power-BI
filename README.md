@@ -1,11 +1,11 @@
 Sales Analytics Dashboard – Power BI
 
-📊 Project Overview
+##📊 Project Overview
 
 This project is an interactive Sales Analytics Dashboard developed using Microsoft Power BI.The objective of this project is to analyze sales performance across different product categories, sub-categories, regions, customer segments, payment modes and shipping modes.
 The dashboard also provides KPI monitoring and time-series analysis to support data-driven business decisions.
 
-🎯 Business Objectives
+##🎯 Business Objectives
 
 The major objectives of this project are:
 - Analyze overall sales performance
@@ -30,7 +30,7 @@ The major objectives of this project are:
 
 ---
 
-📌 Key KPIs
+##📌 Key KPIs
 
 The dashboard tracks the following KPIs:
 - Total Sales
@@ -40,7 +40,7 @@ The dashboard tracks the following KPIs:
 
 ---
 
-📈 Dashboard Analysis
+##📈 Dashboard Analysis
 
 Sales by Category
 
@@ -94,16 +94,3 @@ The dashboard enables business users to:
 
 ---
 
-## 📁 Project Structure
-
-sales-analysis-powerbi/
-│
-├── README.md
-├── PowerBI/
-│   └── Salesdashboard.pbix
-├── Dashboard/
-│   └── sales-dashboard.png
-├── Data/
-│   └── sales_data.csv
-├── Documentation/
-    └── Sales_Analytics_Report.pdf
