@@ -94,11 +94,6 @@ Monthly sales and profit trends are analyzed to identify growth patterns and var
 
 ---
 
-## 📊 Dashboard
-
-![Sales Dashboard](Dashboard/sales-dashboard.png)
-
----
 
 ## 🔍 Business Value
 
